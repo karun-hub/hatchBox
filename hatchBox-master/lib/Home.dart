@@ -215,7 +215,7 @@ class _HomePPState extends State<HomePP> {
                                   width: MediaQuery.of(context).size.width * .2,
                                   height: 80,
                                   child: Center(
-                                    child: Icon(Icons.table_bar_rounded,size: 35,color: Colors.brown),
+                                    child: Icon(Icons.table_chart,size: 35,color: Colors.brown),
                                   ),
 
                                 ),

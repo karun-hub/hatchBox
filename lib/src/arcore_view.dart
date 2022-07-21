@@ -19,7 +19,7 @@ class ArCoreView extends StatefulWidget {
   final ArCoreViewType type;
 
   const ArCoreView(
-      {Key key,
+      {Key  key,
       @required this.onArCoreViewCreated,
 //    @required this.onArCoreUnsupported,
       this.enableTapRecognizer = false,
